@@ -6,4 +6,6 @@ public class Hello {
     // new updated by Kemal
     
     // hey guys gm
+
+    // nice practice
 }
